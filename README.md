@@ -28,9 +28,7 @@ Built with **React, Vite, and Tailwind CSS** for a modern and responsive interfa
 
 ---
 
-## 🚀 Setup & Run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/hackdevil104-coder/employee-management-system.git
+
+
    
